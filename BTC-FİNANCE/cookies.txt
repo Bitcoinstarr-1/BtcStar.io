@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+b.btcminners.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+b.btcminners.com	TRUE	/	FALSE	1999999999	PHPSESSID	b0pm6ak6ul60jk91g5b4ra7l45
+
